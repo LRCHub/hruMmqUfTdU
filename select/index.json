@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "ミカクニンハスキー",
+  "base_artist": "sanetii",
+  "createdAt": "2026-03-29T08:52:48.972010Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミカクニンハスキー",
+      "artist": "sanetii",
+      "has_synced": false,
+      "path": "select/pl_01_ミカクニンハスキー_sanetii.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ミカクニンハスキー",
+      "artist": "sanetii",
+      "has_synced": false,
+      "path": "select/localdb_01_ミカクニンハスキー_sanetii.txt",
+      "repo_name": "-UdWwyGwOYQ"
+    }
+  ]
+}
